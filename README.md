@@ -8,3 +8,9 @@
 
 
 #This app was made using html, css and JavaScript
+
+
+
+
+
+# https://paohid.github.io/ExerciseTimer/TimerApp/ link to view live app
